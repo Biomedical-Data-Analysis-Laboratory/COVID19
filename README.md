@@ -69,12 +69,12 @@ md C:\COVID\DATA
 
 # Cloning, virtual enviroment setup and installing packages
 
-GUI can be cloned from GitHub, using the terminal command. After using git clone, one must create another folder named Pickle. This is for storing settings related to the program. 
+GUI can be cloned from GitHub, using the terminal command. 
 ```
 git clone --branch=main https://github.com/COVID-GUI/COVID19.git C:\COVID\GUI
-
-
-
+```
+After using git clone, one must create another folder named Pickle. This is for storing settings related to the program. 
+```
 mkdir ~/COVID/GUI/PICKLE
 ```
 Future updates can be made simply by giving the following commands:
