@@ -23,7 +23,7 @@ The COVID folder is the root directory for all directories used in this default 
 
 GUI can be cloned from GitHub, using the terminal command. 
 ```
-git clone --branch=main https://github.com/withya1809/COVID19.git ~/COVID/GUI
+git clone --branch=main https://github.com/COVID-GUI/COVID19.git ~/COVID/GUI
 ```
 After using git clone, one must create another folder named Pickle. This is for storing settings related to the program. 
 ```
@@ -71,7 +71,10 @@ md C:\COVID\DATA
 
 GUI can be cloned from GitHub, using the terminal command. After using git clone, one must create another folder named Pickle. This is for storing settings related to the program. 
 ```
-git clone --branch=main https://github.com/withya1809/COVID19.git C:\COVID\GUI
+git clone --branch=main https://github.com/COVID-GUI/COVID19.git C:\COVID\GUI
+
+
+
 mkdir ~/COVID/GUI/PICKLE
 ```
 Future updates can be made simply by giving the following commands:
