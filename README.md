@@ -49,7 +49,7 @@ pip install wheel
 pip install -r requirements.txt
 
 ```
-# Procedure for running resprog
+# Procedure for running COVID
 
 The following code must be run each time you want to run the program:
 ```
@@ -96,7 +96,7 @@ pip install wheel
 pip install -r requirements.txt
 
 ```
-# Procedure for running resprog
+# Procedure for running COVID
 
 The following code must be run each time you want to run the program:
 ```
